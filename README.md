@@ -6,3 +6,4 @@ chmod +x ohcrap.sh
 sudo bash install.sh
 sudo bash ohcrap.sh
 (YOU READY TO GO NOW YEE)
+MEOW
