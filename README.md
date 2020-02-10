@@ -1,7 +1,7 @@
 # OHCRAP V. 0.0.4
 DO the following
 
-git clone [this]
+git clone https://github.com/Turbrex/OHCRAP.git
 
 chmod +x install.sh
 
